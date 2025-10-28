@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIJAY</h1>
-<h2 align="center">Skilled in PYTHON and SQL, using them to build data-driven applications and Backend logic.</h2>
+<h2 align="center">Skilled in C# & SQL, using them to build data-driven applications and Backend logic.</h2>
 <br>
 
 <h4>👨‍💻 I'm a Data-Driven SQL & Python Developer from India.</h4>
