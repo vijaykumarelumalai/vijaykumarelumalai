@@ -20,9 +20,9 @@
 
 <h4>👨‍💻 Real-time Projects:</h4>
 <ul>
-  <li>🚌 Bus Reservation System using Django</li>
   <li>💨 Emission Tracker using LSTM</li>
   <li>🧾 Payroll Management System in SQL Server</li>
+  <li>🚌 Bus Reservation System using Django</li>
   <li>🤖 Chatbot using NLP & Spam Classifier in AI</li>
 </ul>
 
